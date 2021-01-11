@@ -121,6 +121,7 @@ h1{
   flex-direction: column;
   margin-left: 5%;
   margin-right: 5%;
+  margin-top: 5%;
   
 }
 
@@ -157,12 +158,6 @@ h3{
   display: flex;
   justify-content: center;
   margin-bottom: 10%;
-
-}
-.project3{
-  display: flex;
-  justify-content: center;
-  margin-bottom: 5%;
 
 }
 
@@ -241,16 +236,14 @@ h3{
 }
 
 .principalabout{
-  height: 100vh;
   margin-left: 5%;
   margin-right: 5%;
  
 }
 
 .about{
-  flex-direction: row;
   display: flex;
-  
+  flex-direction: row;
 }
 
 .topic{
@@ -340,6 +333,7 @@ h3{
 .group2{
   margin-left: 5%;
   margin-right: 5%;
+  margin-top: 5%;
 }
 
   .contactdetail{
