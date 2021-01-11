@@ -133,6 +133,16 @@ h2{
   margin-bottom: 0.2%;
   padding-top: 4%;
 }
+.h2nuevo{
+  font-family: SFPro-Heavy;
+  color: hsl(226, 23%, 22%);
+  font-size: 93px;
+  max-width: 540px;
+  text-align: left;
+  margin-bottom: 0.8%;
+  padding-top: 4%;
+  margin-top: 6%
+}
 
 h3{
   font-family: SFPro-bold;
@@ -302,11 +312,6 @@ h3{
   
 }
 
-#contact{
-  height: 37vh;
-}
-z
-
 .contacto{
   display: flex;
   flex-direction: row;
@@ -345,11 +350,7 @@ z
     border: 2px solid #10296F;
   }
   
-  #foot{
-    display: flex;
-    flex-direction: row;
-    justify-content:  space-evenly;
-  }
+
 #firma{
   background-color:#FDFDFD ;
   width: 100%;
