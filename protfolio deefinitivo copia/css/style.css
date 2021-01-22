@@ -144,7 +144,6 @@ h2{
   font-family: SFPro-Heavy;
   color: hsl(226, 23%, 22%);
   font-size: 6.2vw;
-  max-width: 540px;
   text-align: left;
   margin-bottom: 0.4%;
   padding-top: 4%;
@@ -295,7 +294,7 @@ h3{
 .medetails1{
   font-family: SFPro-semibold;
   color: #29334e;
-  font-size: 1.2em;
+  font-size: 1.2vw;
   text-align: left;
   width: 55%;
   
