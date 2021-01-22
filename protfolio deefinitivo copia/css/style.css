@@ -51,7 +51,7 @@ nav{
   background-image: url("../images/backgroun_home\ copia\ 2.jpg"), url(../images/backgroun_home\ copia\ 3.jpg);
   background-size: contain;
   background-repeat: no-repeat;
-  background-position: right, left;
+  background-position: right, left bottom;
   
 }
 
