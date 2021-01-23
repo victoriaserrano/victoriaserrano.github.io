@@ -434,15 +434,27 @@ h3{
 
 
 
-  @media only screen and (max-width: 415px) {
-    h1, h2 {
-      font-size: 20px;
-      line-height: 28px;
-      width: 100%;
+  @media only screen and (max-width: 414px) {
+    h1{
+      font-size: 9vh;
+      width: 80%;
+      margin-bottom: 50%;
     }
     
     .desktop-content {
       display: none;
+    }
+    #homemobile{
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      height: 100vh;
+      background-image: url("../images/background_mobile1.jpg"), url(../images/background_mobile2.jpg);
+      background-size: 75%, 95%;
+      background-repeat: no-repeat;
+      margin-top: 50%, 0%;
+      background-position: right bottom, left top;
+      
     }
   
     .mobile-content {
@@ -456,29 +468,47 @@ h3{
      
     }
 
-    .mobile-image{
-      width: 13%;
-      margin-bottom: 2%;
+    .profileimagemobile{
+      width: 12%;
+      margin-bottom: 4%;
+      margin-top: 30%;
       
 
     }
     }
-    .mobile-title{
+    .ctamobile{
+      background-color:#2B3145;
+      width: 90vw;
+      height: 6vh;
       font-family: SFPro-bold;
-      color: #29334e;
-      font-size: 30px;
       text-align: center;
-      margin-bottom:4% ;
-    }
-
-    .mobile-text{
-      font-family: SFPro-semibold;
-      color: #29334e;
-      font-size: 17px;
-      text-align: center;
-      margin-bottom: 35%;
+      color: #FDFDFD;
+      font-size: 18px;
+      border-radius: 30px;
+      outline: #2B3145;
+      border: 2px solid #2B3145;
+      margin-bottom: 3%;
+      cursor: pointer;
+      box-shadow: 0 6px 6px 0 rgba(122, 122, 122, 0.24);
     }
   
+    .lookmobile{
+      font-family: SFPro-bold;
+  color: #2B3145;
+  font-size: 17px;
+  max-width: 350px;
+  text-align: center;
+  padding-left: 20px;
+  margin-top: 0.2%;
+  margin-bottom: 2%;
+  
+    }
+
+    #arrowmobile{
+      margin-bottom: 3%;
+  width: 6%;
+  padding-left: 46%;
+    }
  
 
 
