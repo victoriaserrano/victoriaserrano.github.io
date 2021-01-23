@@ -438,7 +438,7 @@ h3{
     h1{
       font-size: 10vh;
       width: 80%;
-      margin-bottom: 50%;
+      margin-bottom: 45%;
     }
     
     .desktop-content {
@@ -487,21 +487,26 @@ h3{
       border-radius: 30px;
       outline: #2B3145;
       border: 2px solid #2B3145;
-      margin-bottom: 3%;
+      margin-bottom: 4.5%;
       cursor: pointer;
       box-shadow: 0 6px 6px 0 rgba(122, 122, 122, 0.24);
     }
   
     .lookmobile{
+ 
+      background-color:#FDFDFD;
+      width: 90vw;
+      height: 6vh;
       font-family: SFPro-bold;
-  color: #2B3145;
-  font-size: 17px;
-  max-width: 350px;
-  text-align: center;
-  padding-left: 20px;
-  margin-top: 0.2%;
-  margin-bottom: 2%;
-  
+      text-align: center;
+      color: #2B3145;
+      font-size: 18px;
+      border-radius: 30px;
+      outline: #2B3145;
+      border: 2px solid #2B3145;
+      margin-bottom: 3%;
+      cursor: pointer;
+      box-shadow: 0 6px 6px 0 rgba(122, 122, 122, 0.24);
     }
 
     #arrowmobile{
