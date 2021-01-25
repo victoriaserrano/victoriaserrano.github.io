@@ -577,7 +577,7 @@ h3{
   font-family: SFPro-semibold;
   color: #29334e;
   font-size: 17px;
-  width: 70%;
+  width: 90%;
   text-align: left;
   margin-bottom: 10px;
 }
@@ -648,6 +648,7 @@ h3{
   flex-direction: column;
   margin-right: 4% ;
   margin-left:4%;
+  margin-top: 32px;
   margin-bottom: 32px;
   max-width: 928px;
   padding: 0px 0px 0px 10px; 
@@ -670,7 +671,7 @@ h3{
     }
     50% {
       box-shadow: 0 25px 15px 0px rgba(0,0,0,0.2);
-      transform: translatey(-2px);
+      transform: translatey(-2.5px);
     }
     100% {
       box-shadow: 0 5px 15px 0px rgba(0,0,0,0.6);
