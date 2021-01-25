@@ -272,6 +272,7 @@ h3{
 .principalabout{
   margin-left: 5%;
   margin-right: 5%;
+  margin-top: 20%;
  
 }
 
@@ -454,7 +455,7 @@ h3{
   color: hsl(226, 23%, 22%);
   font-size: 12vw;
   text-align: left;
-  margin-bottom: 0.4%;
+  margin-bottom: 1.5%;
   padding-top: 4%;
   margin-right: 4%;
       margin-left: 4%;
@@ -665,15 +666,15 @@ h3{
 
   @keyframes float {
     0% {
-      box-shadow: 0 5px 15px 0px rgba(0,0,0,0.3);
+      box-shadow: 0 5px 15px 0px rgba(0,0,0,0.6);
       transform: translatey(0px);
     }
     50% {
-      box-shadow: 0 25px 15px 0px rgba(0,0,0,0.1);
+      box-shadow: 0 25px 15px 0px rgba(0,0,0,0.2);
       transform: translatey(-2px);
     }
     100% {
-      box-shadow: 0 5px 15px 0px rgba(0,0,0,0.3);
+      box-shadow: 0 5px 15px 0px rgba(0,0,0,0.6);
       transform: translatey(0px);
     }
   }
@@ -681,7 +682,7 @@ h3{
 .group2mobile{
   margin-left: 5%;
   margin-right: 5%;
-  margin-top: 5%;
+  margin-top: 20%;
 }
 .contacto{
   display: flex;
