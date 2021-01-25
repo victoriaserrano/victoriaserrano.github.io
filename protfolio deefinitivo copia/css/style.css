@@ -529,13 +529,13 @@ h3{
       text-align: center;
       color: #2B3145;
       font-size: 18px;
-      margin-bottom: 3%;
     }
 
     #arrowmobile{
-      margin-bottom: 3%;
-  width: 6%;
-  padding-left: 46%;
+      
+      width: 70%;
+      padding-left: 15%;
+      margin-bottom: 30%;
     }
 
     .group1mobile{
@@ -543,7 +543,7 @@ h3{
       flex-direction: column;
       margin-right: 4%;
       margin-left: 4%;
-      margin-top: 5%;
+      margin-top: 23%;
       
     }
     .project3mobile{
@@ -555,13 +555,11 @@ h3{
     }
     .imgleftmobile{
       width: 100%;
-     
-     }
+    }
      .projecttextmobile{
       width: 100%;
       flex-direction: column;
-      margin-right: 6%;
-      margin-left: 4%;
+      margin-left: 6%;
     }
 
 
@@ -586,14 +584,14 @@ h3{
   font-family: SFPro-semibold;
   color: #9E9E9E;
   font-size: 16px;
-  max-width: 100%;
+  width: 90%;
   text-align: left;
   margin-bottom: 8%;
   line-height : 16px;
 }
 .seemoremobile{
   background-color:#FDFDFD ;
-  width: 90vw;
+  width: 81vw;
   height: 6vh;
   font-family: SFPro-semibold;
   color: #9E9E9E;
@@ -603,7 +601,8 @@ h3{
   border: 2px solid #9E9E9E;
   cursor: pointer;
   box-shadow: 0 6px 6px 0 rgba(122, 122, 122, 0.24);
-  margin-bottom: 10%;
+  margin-bottom: 10%
+  
 }
 .principalaboutmobile{
   margin-left: 4%;
